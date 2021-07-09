@@ -1,6 +1,4 @@
 plugged/*
 plugins*
-autoload/
-spell/
 ftdetect/
 .netrwhist
