@@ -1,6 +1,7 @@
 " Specify a directory for plugins
 " - For Neovim: ~/.local/share/nvim/plugged
 " - Avoid using standard Vim directory names like 'plugin'
+" call plug#begin('~/AppData/Local/nvim/plugged/')
 call plug#begin( stdpath('config') . '/plugged')
 
 Plug 'tpope/vim-fugitive'

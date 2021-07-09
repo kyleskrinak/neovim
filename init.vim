@@ -1,5 +1,5 @@
 let g:nvim_config_root = stdpath('config')
-let g:config_file_list = [ 'ginit.vim',
+let g:config_file_list = [ 'plugins.vim',
 \ 'display.vim',
 \ 'nerdtree.vim',
 \ ]
