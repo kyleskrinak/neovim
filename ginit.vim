@@ -1,1 +1,1 @@
-Guifont Hack:h18
+set guifont=Hack:h18
