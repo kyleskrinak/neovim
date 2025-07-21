@@ -14,6 +14,7 @@ endfor
 " Load custom Lua module from ./lua/twopara.lua
 " ————————————————————————————————
 lua require('twopara')
+lua require('wordle')
 
 " ————————————————————————————————
 " Map <leader>fr to call twopara.format_and_reduce_paragraphs()
