@@ -1,4 +1,7 @@
+wordle/
 plugged/*
 plugins/
 ftdetect/
 .netrwhist
+.DS_Store
+lua/wordle.lua-bu
